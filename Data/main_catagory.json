@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "category":"Cooking Essentials"
+
+    },
+    {
+        "id":2,
+        "category":"Snaks & Beverages"
+    },
+    {
+        "id":3,
+        "category":"packaged Food"
+    },
+    {
+        "id":4,
+        "category":"Household & Pets"
+    },
+    {
+        "id":5,
+        "category":"Personal Care & Baby"
+    },
+    {
+        "id":6,
+        "category":"Skin care"
+    },
+    {
+        "id":7,
+        "category":"Offers"
+    }, 
+    {
+        "id":8,
+        "category":"Past Purchases"
+    }
+    
+]

@@ -1,0 +1,143 @@
+[
+    {
+        "id":1,
+        "category":"Salt, Spices & Masalas",
+        "main_category":"Cooking Essentials",
+        "main_category_id":1
+    },
+    {
+        "id":2,
+        "category":"Oils & Ghee",
+        "main_category":"Cooking Essentials",
+        "main_category_id":1
+    },
+    {
+        "id":3,
+        "category":"Dals & Pulses",
+        "main_category":"Cooking Essentials",
+        "main_category_id":1
+    },
+    {
+        "id":4,
+        "category":"Nuts and Dry Fruits",
+        "main_category":"Cooking Essentials",
+        "main_category_id":1
+    },
+    {
+        "id":5,
+        "category":"Biscuits",
+        "main_category":"Snaks & Beverages",
+        "main_category_id":2
+    },
+    {
+        "id":6,
+        "category":"Health Drinks",
+        "main_category":"Snaks & Beverages",
+        "main_category_id":2
+    },
+    {
+        "id":7,
+        "category":"Breakfast Foods",
+        "main_category":"packaged Food",
+        "main_category_id":3
+    },
+    {
+        "id":8,
+        "category":"Sauces & Spreds",
+        "main_category":"packaged Food",
+        "main_category_id":3
+    },
+    {
+        "id":9,
+        "category":"Ready Meals and Mixes",
+        "main_category":"packaged Food",
+        "main_category_id":3
+    },
+    {
+        "id":10,
+        "category":"Laundry",
+        "main_category":"Household & Pets",
+        "main_category_id":4
+    },
+    {
+        "id":11,
+        "category":"Kitchen Cleaning",
+        "main_category":"Household & Pets",
+        "main_category_id":4
+    },
+    {
+        "id":12,
+        "category":"Pets care",
+        "main_category":"Household & Pets",
+        "main_category_id":4
+    },
+    {
+        "id":13,
+        "category":"Cleaning Tools",
+        "main_category":"Household & Pets",
+        "main_category_id":4
+    },
+    {
+        "id":14,
+        "category":"Hair Care",
+        "main_category":"Personal Care & Baby",
+        "main_category_id":5
+    },
+    {
+        "id":15,
+        "category":"Body Cleansing",
+        "main_category":"Personal Care & Baby",
+        "main_category_id":5
+    },
+    {
+        "id":16,
+        "category":"Oral Care",
+        "main_category":"Personal Care & Baby",
+        "main_category_id":5
+    },
+    {
+        "id":17,
+        "category":"Feminine Hygiene",
+        "main_category":"Personal Care & Baby",
+        "main_category_id":5
+    },
+    {
+        "id":18,
+        "category":"Body care",
+        "main_category":"Skin Care",
+        "main_category_id":6
+    },
+    {
+        "id":19,
+        "category":"Face care",
+        "main_category":"Skin Care",
+        "main_category_id":6
+    },
+    {
+        "id":20,
+        "category":"Deodorants & Fregrances",
+        "main_category":"Skin Care",
+        "main_category_id":6
+    },
+
+    {
+        "id":21,
+        "category":"Make up",
+        "main_category":"Skin Care",
+        "main_category_id":6
+    },
+    {
+        "id":22,
+        "category":"offers",
+        "main_category":"Offers",
+        "main_category_id":7
+    },
+    {
+        "id":23,
+        "category":"Best Sellers",
+        "main_category":"Offers",
+        "main_category_id":7
+    }
+
+
+]
