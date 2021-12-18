@@ -1,142 +1,219 @@
 [
     {
-        "id":1,
-        "category":"Salt, Spices & Masalas",
-        "main_category":"Cooking Essentials",
-        "main_category_id":1
-    },
-    {
-        "id":2,
-        "category":"Oils & Ghee",
-        "main_category":"Cooking Essentials",
-        "main_category_id":1
-    },
-    {
-        "id":3,
+        "sub_cat_id":1,
         "category":"Dals & Pulses",
         "main_category":"Cooking Essentials",
-        "main_category_id":1
+        "main_category_id":1,
+        "image":"https://i.ibb.co/KWgWsj8/gfsdfds.jpg"
     },
     {
-        "id":4,
-        "category":"Nuts and Dry Fruits",
+        "sub_cat_id":2,
+        "category":"Atta and Flours",
         "main_category":"Cooking Essentials",
-        "main_category_id":1
+        "main_category_id":1,
+        "image":"https://i.ibb.co/fkcDr16/wheat-flour.jpg"
     },
     {
-        "id":5,
+        "sub_cat_id":3,
+        "category":"Oils & Ghee",
+        "main_category":"Cooking Essentials",
+        "main_category_id":1,
+        "image":"https://i.ibb.co/VJgMr2Z/pic-21.jpg"
+    },
+    {
+        "sub_cat_id":4,
+        "category":"Sugar",
+        "main_category":"Cooking Essentials",
+        "main_category_id":1,
+        "image":"https://i.ibb.co/ncdtqf0/Sugar-0.jpg"
+    },
+    {
+        "sub_cat_id":5,
+        "category":"Rice",
+        "main_category":"Cooking Essentials",
+        "main_category_id":1,
+        "image":"https://i.ibb.co/GtHTdM6/Rice-Market-720x470.jpg"
+    },
+    {
+        "sub_cat_id":6,
         "category":"Biscuits",
         "main_category":"Snaks & Beverages",
-        "main_category_id":2
+        "main_category_id":2,
+        "image":"https://i.ibb.co/ZTcMTXS/ibr-1297558.jpg"
     },
     {
-        "id":6,
+        "sub_cat_id":7,
+        "category":"Snacks",
+        "main_category":"Snaks & Beverages",
+        "main_category_id":2,
+        "image":"https://i.ibb.co/Ssk0b4J/Variation-different-unhealthy-snacks-crackers-sweet-salted-popcorn-tortillas-nuts-straws-bretsels-ba.jpg"
+    },
+    {
+        "sub_cat_id":8,
+        "category":"Tea and Coffee",
+        "main_category":"Snaks & Beverages",
+        "main_category_id":2,
+        "image":"https://i.ibb.co/GCV9Q4M/coffee-tea-mugs-beans-stems.jpg"
+    },
+    {
+        "sub_cat_id":9,
+        "category":"Beverages",
+        "main_category":"Snaks & Beverages",
+        "main_category_id":2,
+        "image":"https://i.ibb.co/rbMBxYR/Five-colorful-gin-tonic-cocktails-in-wine-glasses-on-bar-counter-in-pup-or-restaurant.jpg"
+    },
+    {
+        "sub_cat_id":10,
         "category":"Health Drinks",
         "main_category":"Snaks & Beverages",
-        "main_category_id":2
+        "main_category_id":2,
+        "image":"https://i.ibb.co/Qrq8dtS/horlicks-malt-drinks-500x500.jpg"
     },
     {
-        "id":7,
+        "sub_cat_id":11,
         "category":"Breakfast Foods",
         "main_category":"packaged Food",
-        "main_category_id":3
+        "main_category_id":3,
+        "image":"https://i.ibb.co/HBkB9Ck/toddler-breakfast-ideas-on-coutnertop.jpg"
     },
     {
-        "id":8,
+        "sub_cat_id":12,
         "category":"Sauces & Spreds",
         "main_category":"packaged Food",
-        "main_category_id":3
+        "main_category_id":3,
+        "image":"https://i.ibb.co/djcPy4T/2.jpg"
     },
     {
-        "id":9,
+        "sub_cat_id":13,
         "category":"Ready Meals and Mixes",
         "main_category":"packaged Food",
-        "main_category_id":3
+        "main_category_id":3,
+        "image":"https://i.ibb.co/4ThWRFL/unnamed.jpg"
     },
     {
-        "id":10,
+        "sub_cat_id":14,
+        "category":"Noodles and Pasta",
+        "main_category":"packaged Food",
+        "main_category_id":3,
+        "image":"https://i.ibb.co/pvBD5kK/types-of-pasta-1581024990.jpg"
+    },
+    {
+        "sub_cat_id":15,
+        "category":"Sweets and Chocolates",
+        "main_category":"packaged Food",
+        "main_category_id":3,
+        "image":"https://i.ibb.co/ZWdGHZd/3526531.jpg"
+    },
+    {
+        "sub_cat_id":16,
         "category":"Laundry",
         "main_category":"Household & Pets",
-        "main_category_id":4
+        "main_category_id":4,
+        "image":"https://i.ibb.co/X3xrYCd/Overflowing-laundry-basket-Household-chore-concept-on-white-background.jpg"
     },
     {
-        "id":11,
+        "sub_cat_id":17,
         "category":"Kitchen Cleaning",
         "main_category":"Household & Pets",
-        "main_category_id":4
+        "main_category_id":4,
+        "image":"https://i.ibb.co/Qr5MMfQ/webp.jpg"
     },
     {
-        "id":12,
-        "category":"Pets care",
+        "sub_cat_id":18,
+        "category":"Household Cleaners",
         "main_category":"Household & Pets",
-        "main_category_id":4
+        "main_category_id":4,
+        "image":"https://i.ibb.co/cvqkDgs/4374470200000578.jpg"
     },
     {
-        "id":13,
+        "sub_cat_id":19,
         "category":"Cleaning Tools",
         "main_category":"Household & Pets",
-        "main_category_id":4
+        "main_category_id":4,
+        "image":"https://i.ibb.co/jJ2cYsD/House-cleaning-product-on-wood-table-blue-equipment-concept.jpg"
     },
     {
-        "id":14,
+        "sub_cat_id":20,
+        "category":"Pets care",
+        "main_category":"Household & Pets",
+        "main_category_id":4,
+        "image":"https://i.ibb.co/7pbKmmc/BANNER-01.jpg"
+    },
+    {
+        "sub_cat_id":21,
         "category":"Hair Care",
         "main_category":"Personal Care & Baby",
-        "main_category_id":5
+        "main_category_id":5,
+        "image":"https://i.ibb.co/XF3qvFg/60356a70bed5c50011a2c214-1.jpg"
     },
     {
-        "id":15,
+        "sub_cat_id":22,
         "category":"Body Cleansing",
         "main_category":"Personal Care & Baby",
-        "main_category_id":5
+        "main_category_id":5,
+        "image":"https://i.ibb.co/V9tk6bT/best-body-wash-1569423947.png"
     },
     {
-        "id":16,
+        "sub_cat_id":23,
+        "category":"Shaving and Hair removal",
+        "main_category":"Personal Care & Baby",
+        "main_category_id":5,
+        "image":"https://i.ibb.co/jkng7bL/925763426s.jpg"
+    },
+    {
+        "sub_cat_id":24,
         "category":"Oral Care",
         "main_category":"Personal Care & Baby",
-        "main_category_id":5
+        "main_category_id":5,
+        "image":"https://i.ibb.co/qyDhhnn/ranir-perrigo-acquisition.jpg"
     },
     {
-        "id":17,
-        "category":"Feminine Hygiene",
+        "sub_cat_id":25,
+        "category":"Baby Care",
         "main_category":"Personal Care & Baby",
-        "main_category_id":5
+        "main_category_id":5,
+        "image":"https://i.ibb.co/Kr149bx/jbcc-325-1.jpg"
     },
     {
-        "id":18,
+        "sub_cat_id":26,
         "category":"Body care",
         "main_category":"Skin Care",
-        "main_category_id":6
+        "main_category_id":6,
+        "image":"https://i.ibb.co/D8yJMHP/Best-of-skin-care-hair-and-body-care-products-2019-1.jpg"
     },
     {
-        "id":19,
+        "sub_cat_id":27,
         "category":"Face care",
         "main_category":"Skin Care",
-        "main_category_id":6
+        "main_category_id":6,
+        "image":"https://i.ibb.co/HqstXZT/indybest-budget-skincare.jpg"
     },
     {
-        "id":20,
+        "sub_cat_id":28,
         "category":"Deodorants & Fregrances",
         "main_category":"Skin Care",
-        "main_category_id":6
+        "main_category_id":6,
+        "image":"https://i.ibb.co/yFDTrmz/816-QMnje-AUS-SL1500.jpg"
     },
 
     {
-        "id":21,
+        "sub_cat_id":29,
         "category":"Make up",
         "main_category":"Skin Care",
-        "main_category_id":6
+        "main_category_id":6,
+        "image":"https://i.ibb.co/nrNBwzW/images.jpg"
     },
     {
-        "id":22,
+        "sub_cat_id":30,
         "category":"offers",
         "main_category":"Offers",
         "main_category_id":7
     },
     {
-        "id":23,
-        "category":"Best Sellers",
-        "main_category":"Offers",
-        "main_category_id":7
+        "sub_cat_id":31,
+        "category":"Past Purchases",
+        "main_category":"Past Purchases",
+        "main_category_id":8
     }
 
 
