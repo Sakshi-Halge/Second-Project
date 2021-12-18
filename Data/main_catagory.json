@@ -1,35 +1,35 @@
 [
     {
-        "id":1,
+        "main_cat_id":1,
         "category":"Cooking Essentials"
 
     },
     {
-        "id":2,
+        "main_cat_id":2,
         "category":"Snaks & Beverages"
     },
     {
-        "id":3,
+        "main_cat_id":3,
         "category":"packaged Food"
     },
     {
-        "id":4,
+        "main_cat_id":4,
         "category":"Household & Pets"
     },
     {
-        "id":5,
+        "main_cat_id":5,
         "category":"Personal Care & Baby"
     },
     {
-        "id":6,
+        "main_cat_id":6,
         "category":"Skin care"
     },
     {
-        "id":7,
+        "main_cat_id":7,
         "category":"Offers"
     }, 
     {
-        "id":8,
+        "main_cat_id":8,
         "category":"Past Purchases"
     }
     
